@@ -1,7 +1,3 @@
-Here is a detailed and professional **README.md** long description suitable for your GitHub repository focused on **NLP demonstrations in Python**:
-
----
-
 # 🧠 NLP Demonstrations with Python
 
 Welcome to the **NLP Demos with Python** repository — a comprehensive collection of practical, hands-on Natural Language Processing (NLP) examples designed to help learners, researchers, and developers understand and apply core NLP concepts using Python.
